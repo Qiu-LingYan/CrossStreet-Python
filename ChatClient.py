@@ -15,7 +15,7 @@ my_trip = ''
 var_text = None
 my_text = None
 
-client_name = '[PIG Chat](https://github.com/MuRongPIG/CrossStreet-Python)'
+client_name = '[Pig Chat](https://github.com/MuRongPIG/CrossStreet-Python)'
 client_key = 'HXjURea2vReYejA'
 
 
